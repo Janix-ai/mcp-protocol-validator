@@ -4,7 +4,7 @@ pytest>=7.4.0
 jsonschema>=4.20.0
 pytest-html>=3.2.0
 click==8.1.7
-rich==13.5.2
+rich==14.0.0
 pathlib>=1.0.1
 pydantic>=2.3.0
 # Removing aiohttp due to build issues with Python 3.12
