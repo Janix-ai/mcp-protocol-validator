@@ -8,4 +8,4 @@ rich==13.5.2
 pathlib>=1.0.1
 pydantic>=2.3.0
 # Removing aiohttp due to build issues with Python 3.12
-sseclient-py==1.7.2 
+sseclient-py==1.8.0 
